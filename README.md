@@ -1,4 +1,5 @@
-![Cool Kids - Study](https://user-images.githubusercontent.com/90414254/166561599-c5a6a66c-fb9a-48a4-8ddc-ee5b4be704ff.png)
+![Yuffie H](https://user-images.githubusercontent.com/90414254/166569934-43f8e657-f43d-445e-a19b-b15ef6d21ead.png)
+
 
 - 👋 Hi, I’m Yuffie Hu
 - 👀 I’m an aspiring software developer and currently going through Practicum by Yandex bootcamp focusing on frontend web development.
