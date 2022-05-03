@@ -1,4 +1,4 @@
-![Yuffie H](https://user-images.githubusercontent.com/90414254/166569934-43f8e657-f43d-445e-a19b-b15ef6d21ead.png)
+![Yuffie H-2](https://user-images.githubusercontent.com/90414254/166570098-46682d05-1d62-4d72-92ac-4491d3aee6c7.png)
 
 
 - 👋 Hi, I’m Yuffie Hu
