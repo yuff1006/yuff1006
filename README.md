@@ -1,5 +1,4 @@
-![Yuffie H-2](https://user-images.githubusercontent.com/90414254/166570098-46682d05-1d62-4d72-92ac-4491d3aee6c7.png)
-
+![Yuffie H](https://user-images.githubusercontent.com/90414254/175780100-6eccd73f-3e8a-43a0-bd56-df0db26ea5f8.png)
 
 ### About Me
 ---
