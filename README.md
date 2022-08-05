@@ -7,7 +7,7 @@
 
 👀 I’m a Full-stack Software Developer passionate about teamwork and producing scalable & accessible web appplications.
 
-🗓 Currently working on an Agile team of 10 to pilot a fully viable web app solution to act as an educational/canonical project for our client, Practicum by Yandex
+🗓 We did a thing! We, an Agiel team of 8, delivered a fully functional [web app solution](https://wtwr.students.nomoredomainssbs.ru) to act as an educational/canonical project for our client, Practicum by Yandex. It is a clothing recommendation app acoording to user's location and weather. So much fun and learning. I'd do it again in a heartbeat!
 
 👯‍♂️ Learning more collaborative skills from The Collab Lab while building [a smart shopping list app](https://github.com/the-collab-lab/tcl-46-smart-shopping-list). 
 
