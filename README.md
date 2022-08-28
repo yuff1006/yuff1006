@@ -9,7 +9,7 @@
 
 🗓 We did a thing! We, an Agile team of 8, delivered a fully functional [web app solution](https://wtwr.students.nomoredomainssbs.ru) to act as an educational/canonical project for our client, Practicum by Yandex. It is a clothing recommendation app acoording to user's location and weather. So much fun and learning. I'd do it again in a heartbeat!
 
-👯‍♂️ Learning more collaborative skills from The Collab Lab while building [a smart shopping list app](https://github.com/the-collab-lab/tcl-46-smart-shopping-list). 
+👯‍♂️ Had the pleasure of working on an Agile team, and learn so much about web accessibility at the The Collab Lab while building [a smart shopping list app](https://tcl-46-smart-shopping-list.web.app/list). 
 
 💼 [My first project](https://github.com/yuff1006/Music-Therapy-Documentation.git) was a web app using MySQL, Python, Flask and Javascript automating Therapy Documentation process at my company. It is fully functional and saving much time in my workflow. I plan to keep updating and adding features to it. 
 
